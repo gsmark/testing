@@ -1,0 +1,12 @@
+<phpunit bootstrap="bootstrap.php" colors="true">
+    <testsuites>
+        <testsuite name="funktional">
+            <directory>../../../htdocs/application/views/</directory>
+        </testsuite>
+    </testsuites>
+    <testsuites>
+        <testsuite name="logical">
+            <directory>../../../htdocs/modules/ra/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

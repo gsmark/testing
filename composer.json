@@ -1,0 +1,17 @@
+{
+  "name": "ra/testing",
+  "description": "Package to simplify define ui testing environment",
+  "authors": [
+    {
+      "name": "Sebastian Mark",
+      "email": "info@renzel-agentur.de"
+    }
+  ],
+  "autoload": {
+    "psr-0": {"Ra\\Testing\\": "src/"}
+  },
+  "licence": "MIT",
+  "require": {
+    "phpunit/phpunit-selenium": "1.4.2"
+  }
+}
