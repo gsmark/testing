@@ -1,3 +1,6 @@
+~deprecated: someday maybe open source under https://github.com/renzelagentur~
+
+
 ra/testing
 ===============
 
